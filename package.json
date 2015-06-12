@@ -1,0 +1,26 @@
+{
+  "name": "fpn",
+  "version": "0.0.1",
+  "description": "Utility to show full path name of a file.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voltrevo/fpn.git"
+  },
+  "keywords": [
+    "full",
+    "path",
+    "name",
+    "utility"
+  ],
+  "bin": "fpn",
+  "author": "Andrew Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voltrevo/fpn/issues"
+  },
+  "homepage": "https://github.com/voltrevo/fpn#readme"
+}
